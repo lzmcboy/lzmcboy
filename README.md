@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bin
-- 👀 I’m interested in Bioinfomatics
-- 🌱 I’m currently learning R and Python.
+- 👀 I'm a PhD majoring in molecular medicine. Currently focusing on research in single cell transcriptomics and microbiomics.
+- 🌱 I’m currently learning Python. I'm also a dentist.
 - 💞️ I’m looking to collaborate on the Single Cell analysis.
 - 📫 How to reach me zb.9527@163.com
 
